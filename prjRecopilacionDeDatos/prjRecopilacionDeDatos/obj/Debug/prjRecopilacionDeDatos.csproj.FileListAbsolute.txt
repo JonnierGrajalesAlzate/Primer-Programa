@@ -1,0 +1,10 @@
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\bin\Debug\prjRecopilacionDeDatos.exe.config
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\bin\Debug\prjRecopilacionDeDatos.exe
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\bin\Debug\prjRecopilacionDeDatos.pdb
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\obj\Debug\prjRecopilacionDeDatos.csproj.AssemblyReference.cache
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\obj\Debug\prjRecopilacionDeDatos.frmDatos.resources
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\obj\Debug\prjRecopilacionDeDatos.Properties.Resources.resources
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\obj\Debug\prjRecopilacionDeDatos.csproj.GenerateResource.cache
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\obj\Debug\prjRecopilacionDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\obj\Debug\prjRecopilacionDeDatos.exe
+C:\Users\57304\source\repos\prjRecopilacionDeDatos\prjRecopilacionDeDatos\obj\Debug\prjRecopilacionDeDatos.pdb
